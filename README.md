@@ -1,0 +1,2 @@
+# CustomFilterForDetailData
+Created with CodeSandbox
